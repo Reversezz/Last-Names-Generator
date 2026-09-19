@@ -21,9 +21,3 @@ Give every lord a proper family name! The mod generates last names for all lords
 
 - Game version: 1.4.5 – 1.4.8
 - No known conflicts with other mods.
-
-## Download
-
-[Download on Nexus Mods](https://www.nexusmods.com/mountandblade2bannerlord/mods/XXXX)
-
-## License [LICENSE](LICENSE)
