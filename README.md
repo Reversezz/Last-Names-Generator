@@ -2,7 +2,7 @@
 
 Give every lord a proper family name! The mod generates last names for all lords, and children are already born with them.
 
-[![Nexus Mods](https://img.shields.io/badge/NexusMods-Last%20Names%20Generator-orange)](https://www.nexusmods.com/mountandblade2bannerlord/mods/XXXX)
+[![Nexus Mods](https://img.shields.io/badge/NexusMods-Last%20Names%20Generator-orange)](https://www.nexusmods.com/mountandblade2bannerlord/mods/13288)
 
 ## What it does
 
@@ -12,8 +12,8 @@ Give every lord a proper family name! The mod generates last names for all lords
 
 ## Installation
 
-1. Install [Harmony](https://www.nexusmods.com/mountandblade2bannerlord/mods/2006), [ButterLib](https://www.nexusmods.com/mountandblade2bannerlord/mods/2018) and [MCM](https://www.nexusmods.com/mountandblade2bannerlord/mods/612).
-2. Download the mod from [Nexus Mods](https://www.nexusmods.com/mountandblade2bannerlord/mods/XXXX).
+1. Install [MCM](https://www.nexusmods.com/mountandblade2bannerlord/mods/612) and its dependencies.
+2. Download the mod from [Nexus Mods](https://www.nexusmods.com/mountandblade2bannerlord/mods/13288).
 3. Extract the `LastNamesGenerator` folder into your `Modules` directory.
 4. Enable the mod in the launcher.
 
@@ -26,6 +26,4 @@ Give every lord a proper family name! The mod generates last names for all lords
 
 [Download on Nexus Mods](https://www.nexusmods.com/mountandblade2bannerlord/mods/XXXX)
 
-## License
-
-MIT
+## License [![MIT](MIT)
