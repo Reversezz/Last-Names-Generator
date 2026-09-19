@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+	<tags>
+		<tag language="Русский"/>
+	</tags>
+	<strings>
+
+		<string id="VIFPCoLa" text="Генерация фамилий" />
+		
+		<string id="owiOeRzd" text="Сгенерировать имена (по названию клана)" />
+		<string id="yJkIELYz" text="Включить сообщения о выдаче фамилий новорождённым детям" />
+		<string id="hKmAOiTO" text="Нажмите, чтобы фамилии сгенерировались для всех лордов." />
+		<string id="lzSiAStP" text="Сгенерировать" />
+
+		<string id="MyagKDpi" text="Перезагрузить конфиг" />
+		<string id="xYgleAaP" text="Перезагрузить" />
+		<string id="fGPhDpkO" text="Нажмите, чтобы перезагрузить данные конфига." />
+		<string id="ynZaSOKa" text="Конфиг успешно перезагружен!" />
+
+		<string id="RjwShlne" text="Фамилии были сгенерированы!" />
+		<string id="GYsdKwyV" text="Фамилия была выдана новорожденному {HERONAME} из рода {HEROCLAN}." />		
+		
+	</strings>
+</base>

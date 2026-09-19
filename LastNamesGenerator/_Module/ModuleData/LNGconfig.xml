@@ -1,0 +1,31 @@
+<LastNamesGenerator>
+
+	<IgnoredWords>
+
+		<!-- RU tags -->
+		<Word> дом </Word>
+		<Word> клан </Word>
+		<Word> фамилия </Word>
+		<Word> знать </Word>
+
+	</IgnoredWords>
+
+
+	<IgnoredLetters>
+
+		<!-- RU tags -->
+		<Letter> и </Letter>
+		<Letter> ы </Letter>		
+		<Letter> ов </Letter>
+		
+		<Letter> ская </Letter>
+		<Letter> кая </Letter>
+		<Letter> ая </Letter>	
+
+		<Letter> ские </Letter>
+		<Letter> ский </Letter>
+
+	</IgnoredLetters>
+
+
+</LastNamesGenerator>
